@@ -1,71 +1,25 @@
-# resume-parser-nodejs
+# Resume Parser Nodejs
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
+## 📝 Description
 Uber4Developer
 
-## 🚀 Tech Stack
+## 🚀 Technology Stack
+- **Primary**: Node.js
 
-- Node.js
-
-## ✨ Features
-
-- Modern and scalable architecture
-
-## 📦 Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/amitdubeyup/resume-parser-nodejs.git
-cd resume-parser-nodejs
-
-# Install dependencies
-npm install
-```
-
-## ⚙️ Configuration
-
-Create a `.env` file in the root directory:
-
-```bash
-cp .env.example .env
-```
-
-Update the `.env` file with your configuration values.
-
-## 🚀 Usage
-
-```bash
-# Production mode
-npm start
-
-```
-
-## 📜 Available Scripts
-
-- `npm run lint` - eslint .
-- `npm run start` - node .
-- `npm run posttest` - npm run lint && nsp check
-
-## 📁 Project Structure
-
-```
-resume-parser-nodejs/
-├── package.json
-├── .env.example
-├── README.md
-```
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
+## 🛠️ Installation & Setup
+1. Clone the repository:
+   ```bash
+   git clone git@github.com:amitdubeyup/resume-parser-nodejs.git
+   ```
+2. Navigate to the directory:
+   ```bash
+   cd resume-parser-nodejs
+   ```
 
 ## 📄 License
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👤 Author
-
-**Amit Dubey**
-
-- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
+--- 
+*Generated and maintained as part of the digital portfolio synchronization.*
