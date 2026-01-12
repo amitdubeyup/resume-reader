@@ -1,55 +1,34 @@
-# Intelligent Resume Parser
+# Resume Parser Nodejs
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-## 👤 Author
-**Amit Dubey**  
-*Full-Stack Architect & Fintech Specialist*  
-[Portfolio](https://amitdubey.me) | [GitHub](https://github.com/amitdubeyup) | [Email](mailto:amitdubeycs88@gmail.com)
-
----
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
 ## 📝 About The Project
-An HR-tech tool that ingests resume documents (PDF/Docx) and extracts structured data (skills, experience, contact info) using NLP techniques.
+HR-tech utility utilizing NLP to extract structured data (skills, experience) from PDF and DOCX resume files.
 
-This project is maintained by **Amit Dubey** and reflects modern engineering practices, focusing on scalability, code readability, and performance.
+### 🔧 Key Features
+- Designed for scalability and performance
+- Modular architecture for easy maintenance
 
-## 🚀 Key Features
-- **PDF/Docx Text Extraction**
-- **NLP Entity Recognition**
-- **Skill Matching**
-- **JSON Export**
+## 🛠️ Tech Stack
+*   **Node.js**
 
-## 🛠️ Technology Stack
-- **Core**: Node.js, PDF.js, NLP.js
-- **Infrastructure**: Git, GitHub Actions (CI/CD)
+## 👨‍💻 Lead Maintainer
+[@amitdubeyup](https://github.com/amitdubeyup)
 
-## 📦 Installation & Usage
+## 📦 Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone git@github.com:amitdubeyup/resume-parser-nodejs.git
-   ```
-
-2. **Navigate to directory**
-   ```bash
-   cd resume-parser-nodejs
-   ```
-
-3. **Install Dependencies (if applicable)**
-   ```bash
-   # For Node.js
-   npm install
-   
-   # For Python
-   # pip install -r requirements.txt
-   ```
-
-4. **Run the Application**
-   ```bash
-   # Check package.json scripts or run directly
-   npm start
-   ```
+1.  **Clone the repository**:
+    ```bash
+    git clone git@github.com:amitdubeyup/resume-parser-nodejs.git
+    ```
+2.  **Install dependencies**:
+    ```bash
+    npm install  # or pip install -r requirements.txt
+    ```
+3.  **Run the application**:
+    ```bash
+    npm start    # or python app.py
+    ```
 
 ## 📄 License
 This project is licensed under the **MIT License**.
